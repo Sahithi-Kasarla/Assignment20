@@ -1,0 +1,7 @@
+C:\Users\Dell\source\Day15\Assignment20\Assignment20\bin\Debug\Assignment20.exe.config
+C:\Users\Dell\source\Day15\Assignment20\Assignment20\bin\Debug\Assignment20.exe
+C:\Users\Dell\source\Day15\Assignment20\Assignment20\bin\Debug\Assignment20.pdb
+C:\Users\Dell\source\Day15\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day15\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day15\Assignment20\Assignment20\obj\Debug\Assignment20.exe
+C:\Users\Dell\source\Day15\Assignment20\Assignment20\obj\Debug\Assignment20.pdb
